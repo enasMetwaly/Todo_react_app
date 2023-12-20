@@ -1,0 +1,30 @@
+/* Todo.css */
+
+.todo-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  
+  .todo-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Add more styles as needed */
+  /* .listStyle {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    list-style-type: none;
+  } */
+  .mybtn{
+    margin-right: 0;
+    border-radius: 5px;
+  }

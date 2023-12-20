@@ -1,13 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import TodoContainer from './components/TodoContainer/TodoContainer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+import React, { useState } from 'react';
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        </a>
-      </header>
-    </div>
+    <>
+    <TodoContainer />
+    </>
   );
 }
 
